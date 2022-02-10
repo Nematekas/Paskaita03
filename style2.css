@@ -1,0 +1,21 @@
+.left {
+    display: inline-block;
+    background-color: green;
+    padding: 10px;
+    margin: 15pix;
+}
+.left-first {
+    background-color: red;
+}
+.left-second {
+    background-color: burlywood;
+}
+.right {
+    display: inline-block;
+    background-color: burlywood;
+    padding: 10px;
+    margin: 15pix;
+}
+.right-first, .right-second {
+    background-color: red;
+}

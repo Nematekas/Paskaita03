@@ -1,0 +1,14 @@
+.coolbox   {
+width: 50%;
+height: 80px;
+background-color: white;
+float: left;
+border: 15px solid yellow;
+box-shadow: inset 0 0 0 25px red; /* <-- 10px spread radius */
+}
+ul {
+list-style: none;
+}
+li {
+display: inline-block;
+}
